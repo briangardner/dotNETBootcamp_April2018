@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\bin\Debug\TestStatements2.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\bin\Debug\TestStatements2.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\bin\Debug\TestStatements2.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\obj\Debug\TestStatements2.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\obj\Debug\TestStatements2.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestStatements2\TestStatements2\obj\Debug\TestStatements2.pdb

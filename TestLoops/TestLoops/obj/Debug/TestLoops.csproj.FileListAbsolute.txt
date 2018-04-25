@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\bin\Debug\TestLoops.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\bin\Debug\TestLoops.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\bin\Debug\TestLoops.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\obj\Debug\TestLoops.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\obj\Debug\TestLoops.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestLoops\TestLoops\obj\Debug\TestLoops.pdb

@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\bin\Debug\TestSwitchStatement.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\bin\Debug\TestSwitchStatement.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\bin\Debug\TestSwitchStatement.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\obj\Debug\TestSwitchStatement.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\obj\Debug\TestSwitchStatement.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestSwitchStatement\TestSwitchStatement\obj\Debug\TestSwitchStatement.pdb

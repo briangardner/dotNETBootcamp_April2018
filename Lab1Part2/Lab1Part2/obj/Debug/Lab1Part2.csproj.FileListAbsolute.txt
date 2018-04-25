@@ -1,0 +1,9 @@
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\NodaTime.dll
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\NodaTime.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\bin\Debug\NodaTime.xml
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.pdb
