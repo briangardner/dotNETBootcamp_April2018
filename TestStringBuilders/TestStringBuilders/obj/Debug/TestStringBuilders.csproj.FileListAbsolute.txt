@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\bin\Debug\TestStringBuilders.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\bin\Debug\TestStringBuilders.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\bin\Debug\TestStringBuilders.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\obj\Debug\TestStringBuilders.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\obj\Debug\TestStringBuilders.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestStringBuilders\TestStringBuilders\obj\Debug\TestStringBuilders.pdb

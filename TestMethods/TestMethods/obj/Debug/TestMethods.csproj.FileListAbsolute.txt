@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\bin\Debug\TestMethods.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\bin\Debug\TestMethods.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\bin\Debug\TestMethods.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\obj\Debug\TestMethods.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\obj\Debug\TestMethods.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestMethods\TestMethods\obj\Debug\TestMethods.pdb
