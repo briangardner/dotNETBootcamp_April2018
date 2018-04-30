@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\bin\Debug\TestRegex.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\bin\Debug\TestRegex.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\bin\Debug\TestRegex.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\obj\Debug\TestRegex.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\obj\Debug\TestRegex.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestRegex\TestRegex\obj\Debug\TestRegex.pdb

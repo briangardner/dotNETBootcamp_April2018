@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\bin\Debug\TestExceptions.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\bin\Debug\TestExceptions.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\bin\Debug\TestExceptions.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\obj\Debug\TestExceptions.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\obj\Debug\TestExceptions.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestExceptions\TestExceptions\obj\Debug\TestExceptions.pdb
