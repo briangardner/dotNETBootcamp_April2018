@@ -1,0 +1,5 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2April2018\TestArrays2April2018\bin\Debug\TestArrays2April2018.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2April2018\TestArrays2April2018\bin\Debug\TestArrays2April2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2April2018\TestArrays2April2018\bin\Debug\TestArrays2April2018.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2April2018\TestArrays2April2018\obj\Debug\TestArrays2April2018.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestArrays2April2018\TestArrays2April2018\obj\Debug\TestArrays2April2018.pdb
