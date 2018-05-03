@@ -1,0 +1,5 @@
+c:\users\kamel\documents\visual studio 2017\Projects\Ex27\Ex27\bin\Debug\Ex27.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\Ex27\Ex27\bin\Debug\Ex27.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Ex27\Ex27\bin\Debug\Ex27.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\Ex27\Ex27\obj\Debug\Ex27.exe
+c:\users\kamel\documents\visual studio 2017\Projects\Ex27\Ex27\obj\Debug\Ex27.pdb
