@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\bin\Debug\TestAbstractClasses.exe.config
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\bin\Debug\TestAbstractClasses.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\bin\Debug\TestAbstractClasses.pdb
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\obj\Debug\TestAbstractClasses.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\obj\Debug\TestAbstractClasses.exe
+c:\users\kamel\documents\visual studio 2017\Projects\TestAbstractClasses\TestAbstractClasses\obj\Debug\TestAbstractClasses.pdb
