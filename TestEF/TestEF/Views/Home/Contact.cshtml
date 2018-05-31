@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<form action="/Home/AddNewCustomer" method="post">
+  CustomerID:  <input type="text" name="CustomerID" /><br />
+  Company Name: <input type="text" name="CompanyName" /><br />
+  City: <input type="text" name="City" /><br />
+  Country: <input type="text" name="Country" /><br />
+  <input type="submit" value="Add" />
+</form>

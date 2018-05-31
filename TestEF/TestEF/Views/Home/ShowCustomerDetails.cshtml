@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "ShowCustomerDetails";
+}
+@model TestEF.Models.Customer 
+<h2>ShowCustomerDetails</h2>
+
+<form action="/Home/SaveCustomerUpdates" method="post">
+    CustomerID:<input type="text" value="@Model.CustomerID" name="CustomerID"/><br />
+    Company Name:<input type="text" value="@Model.CompanyName" name="CompanyName" /><br />
+    City:<input type="text" value="@Model.City" name="City" /><br />
+    <input type="submit" value="Save updates" />
+</form>

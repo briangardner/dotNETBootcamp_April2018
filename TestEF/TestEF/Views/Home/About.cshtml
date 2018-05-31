@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+<table class="table">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+    </tr>
+    @foreach (var c in ViewBag.CustomerList)
+    {
+        <tr>
+            <td> @c.CustomerID</td>
+            <td> @c.CompanyName</td>
+            <td>
+                <a href="/Home/DeleteCustomer?CustomerID=@c.CustomerID" onclick="return confirm('Are you sure?')" class="btn btn-danger btn-sm">
+                    <span class="glyphicon glyphicon-trash"></span> Delete
+                </a>
+            </td>
+            <td><a href="/Home/ShowCustomerDetails?CustomerID=@c.CustomerID">Details</a></td>
+        </tr>
+    }
+</table>
+
